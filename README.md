@@ -1,4 +1,4 @@
-# CS 199 Nathan Dale S. Paglinawan & Micah G. Tan 2019
+# CS 199 Nathan Dale S. Paglinawan & Micah G. Tan A.Y. 2018-2019
 Gene Network Modelling: Improved Gene Co-Expression Network Clustering
 
 CS 199 Manuscript LaTeX Source Files and Images folder contains the LaTeX source files and images used for the manuscript.
