@@ -5,6 +5,6 @@ CS 199 Manuscript LaTeX Source Files and Images folder contains the LaTeX source
 
 CS 199 Manuscript.pdf file is the pdf version of the manuscript containing the full details of the study.
 
-combined.txt file contains the Raw Yeast Cell Cycle Dataset used for the study acquired from the Yeast Cell Cycle Analysis Project: http://genome-www.stanford.edu/cellcycle/data/rawdata/
+combined.txt file is the Raw Yeast Cell Cycle Dataset used for the study acquired from the Yeast Cell Cycle Analysis Project: http://genome-www.stanford.edu/cellcycle/data/rawdata/
 
-yeast.r is R Source Code containing the whole methodology process.
+yeast.r is the R Source Code containing the whole methodology process.
